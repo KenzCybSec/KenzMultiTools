@@ -5,6 +5,9 @@
 ## 🎥 DEMO
 ![Demo](videos/kenzmultitools.gif)
 
+⭐50 star for v2
+⭐100 star for premium token generator
+
 ## 🚀 FEATURES
 - ✅ Token Generator
 - ✅ Nitro Generator  
