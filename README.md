@@ -79,7 +79,7 @@ This tool (**Kenz Multi Tools**) is for **EDUCATIONAL PURPOSES ONLY**.
 
 *By using this tool, you agree to these terms.*
 
-📜 LICENSE
+# 📜 LICENSE
 MIT License
 
 # Support This Project💰
