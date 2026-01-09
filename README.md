@@ -20,7 +20,7 @@
 - ✅ Discord Bot Tools
 
 # ⭐100 star for v2📌
-- 🚀 V2 FEATURES
+# 🚀 V2 FEATURES
 - 🎯premium discord tools
 - 🎯premium generators
 - 🎯premium network tools
