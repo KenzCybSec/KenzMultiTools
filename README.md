@@ -25,7 +25,7 @@
 # ⭐100 star for v2📌
 # 🚀 V2 FEATURES
 - 🎯premium discord tools
-- 🎯premium generators
+- 🎯premium generators(auto captcha solver and multi thread)
 - 🎯premium network tools
 - 🎯premium nukers
 
