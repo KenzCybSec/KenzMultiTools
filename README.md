@@ -41,7 +41,7 @@ git clone https://github.com/KenzCybSec/KenzMultiTools
 cd KenzMultiTools
 pip install -r requirements.txt
 python kenz.py
-
+```
 💻 TESTED ON
 ✅ Windows 10
 
@@ -82,3 +82,6 @@ This tool (**Kenz Multi Tools**) is for **EDUCATIONAL PURPOSES ONLY**.
 📜 LICENSE
 MIT License
 
+# Support This Project
+Love this project? Your support helps with new updates and tools ❤️
+btc:bc1qv3xjznyqu867j98ce8z03r8nmuecncxavhh44z
