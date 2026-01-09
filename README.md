@@ -19,6 +19,13 @@
 - ✅ Premium Generators
 - ✅ Discord Bot Tools
 
+⭐100 star for v2📌
+# 🚀 V2 FEATURES
+🎯premium discord tools
+🎯premium generators
+🎯premium network tools
+🎯premium nukers
+
 ## 📦 INSTALLATION
 ```bash
 pip install -r requirements.txt
@@ -70,11 +77,4 @@ This tool (**Kenz Multi Tools**) is for **EDUCATIONAL PURPOSES ONLY**.
 
 📜 LICENSE
 MIT License
-
-⭐100 star for v2📌
-🚀v2 features
-🎯premium discord tools
-🎯premium generators
-🎯premium network tools
-🎯premium nukers
 
