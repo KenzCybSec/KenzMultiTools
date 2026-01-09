@@ -14,6 +14,7 @@
 - ✅ Spotify Generator
 - ✅ IP Generator
 - ✅ Kenz Generator
+- ✅ Token Humanizer
 - ✅ Account Manager
 - ✅ Token Info & Login
 - ✅ Server Lookup
