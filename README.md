@@ -5,6 +5,9 @@
 ## 🎥 DEMO
 ![Demo](videos/kenzmultitools.gif)
 
+## 📷 TokenGen Showcase
+![TokenGen](images/tools1.png)
+
 ## 🚀 FEATURES
 - ✅ Token Generator
 - ✅ Nitro Generator  
