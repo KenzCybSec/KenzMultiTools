@@ -5,9 +5,6 @@
 ## 🎥 DEMO
 ![Demo](videos/kenzmultitools.gif)
 
-⭐50 star for v2
-⭐100 star for premium token generator
-
 ## 🚀 FEATURES
 - ✅ Token Generator
 - ✅ Nitro Generator  
@@ -73,3 +70,11 @@ This tool (**Kenz Multi Tools**) is for **EDUCATIONAL PURPOSES ONLY**.
 
 📜 LICENSE
 MIT License
+
+⭐100 star for v2📌
+🚀v2 features
+🎯premium discord tools
+🎯premium generators
+🎯premium network tools
+🎯premium nukers
+
