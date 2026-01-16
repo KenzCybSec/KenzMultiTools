@@ -59,7 +59,7 @@ LICENSE
 README.md
 
 📞 DISCORD
-https://discord.gg/amGTb4WT
+https://discord.gg/SF5gmHPw
 
 ⚠️ DISCLAIMER
 
